@@ -31,5 +31,5 @@ Austin Hart & Dylan Goodell
 
 ### What other uses might these circuits have? (Think Shannon’s)
 
-- Other uses that these circuits might have are transmitting more information over a quicker period by saving time adding everything you want to input and allowing them to then be chosen as outputs acting as a data selector.
+- Other uses that these circuits might have are transmitting more information over a quicker period by saving time adding everything you want to input and allowing them to then be chosen as outputs acting as a data selector. A mux can implement any Boolean function by tying its data inputs to 0, 1, or other signals. This is probably used in a lot of ai building and thought process.
 
